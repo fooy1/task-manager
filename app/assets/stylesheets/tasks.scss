@@ -1,0 +1,27 @@
+// Place all the styles related to the tasks controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+li {
+  text-decoration: none;
+  color: white;
+}
+
+.index {
+  margin: 50px;
+  padding: 50px;
+  background-image: url(https://images.unsplash.com/photo-1497215728101-856f4ea42174?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80);
+  opacity: 1;
+}
+
+.index h1 {
+  text-align: center;
+}
+
+.index a {
+  color:white;
+  text-decoration: none;
+}
+
+.list {
+  text-decoration: none;
+}
